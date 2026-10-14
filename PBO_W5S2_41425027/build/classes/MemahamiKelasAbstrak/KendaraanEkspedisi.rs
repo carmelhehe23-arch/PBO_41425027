@@ -1,0 +1,3 @@
+MemahamiKelasAbstrak.MobilVan
+MemahamiKelasAbstrak.TrukBox
+MemahamiKelasAbstrak.KendaraanEkspedisi

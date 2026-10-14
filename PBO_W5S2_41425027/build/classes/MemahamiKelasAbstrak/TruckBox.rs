@@ -1,0 +1,2 @@
+MemahamiKelasAbstrak.TrukBox
+MemahamiKelasAbstrak.Truk
